@@ -1,0 +1,18 @@
+# MCP Context
+
+> In this readme, I'm collecting all useful most up-to-date context for building high-quality MCPs.
+
+## Core
+
+- [MCP schema 2025-11-25](https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/refs/heads/main/schema/2025-11-25/schema.ts): The latest schema in TypeScript, useful anytime you need footprints of how things ought to be implemented.
+- [Tasks](https://modelcontextprotocol.io/specification/2025-11-25/basic/utilities/tasks.md): Experimental new feature of MCP
+- [Key Changes](https://modelcontextprotocol.io/specification/2025-11-25/changelog.md)
+- [All other latest docs](https://modelcontextprotocol.io/llms.txt)
+
+## Authorization
+
+- [MCP Authorization](https://modelcontextprotocol.io/specification/2025-11-25/basic/authorization.md)
+- [MCP Security](https://modelcontextprotocol.io/specification/2025-11-25/basic/security_best_practices.md)
+- [/.well-known/oauth-authorization-server](https://www.rfc-editor.org/rfc/rfc8414.txt)
+- [/.well-known/oauth-protected-resource](https://www.rfc-editor.org/rfc/rfc9728.txt)
+- [/register](https://www.rfc-editor.org/rfc/rfc7591.txt)
