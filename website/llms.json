@@ -1,0 +1,197 @@
+{
+  "title": "Model Context Protocol",
+  "sections": [
+    {
+      "name": "Docs",
+      "files": [
+        {
+          "name": "Example Clients",
+          "url": "https://modelcontextprotocol.io/clients.md",
+          "notes": "A list of applications that support MCP integrations"
+        },
+        {
+          "name": "Antitrust Policy",
+          "url": "https://modelcontextprotocol.io/community/antitrust.md",
+          "notes": "MCP Project Antitrust Policy for participants and contributors"
+        },
+        {
+          "name": "Contributor Communication",
+          "url": "https://modelcontextprotocol.io/community/communication.md",
+          "notes": "Communication strategy and framework for the Model Context Protocol community"
+        },
+        {
+          "name": "Governance and Stewardship",
+          "url": "https://modelcontextprotocol.io/community/governance.md",
+          "notes": "Learn about the Model Context Protocol's governance structure and how to participate in the community"
+        },
+        {
+          "name": "SEP Guidelines",
+          "url": "https://modelcontextprotocol.io/community/sep-guidelines.md",
+          "notes": "Specification Enhancement Proposal (SEP) guidelines for proposing changes to the Model Context Protocol"
+        },
+        {
+          "name": "Working and Interest Groups",
+          "url": "https://modelcontextprotocol.io/community/working-interest-groups.md",
+          "notes": "Learn about the two forms of collaborative groups within the Model Context Protocol's governance structure - Working Groups and Interest Groups."
+        },
+        {
+          "name": "Roadmap",
+          "url": "https://modelcontextprotocol.io/development/roadmap.md",
+          "notes": "Our plans for evolving Model Context Protocol"
+        },
+        {
+          "name": "Build an MCP client",
+          "url": "https://modelcontextprotocol.io/docs/develop/build-client.md",
+          "notes": "Get started building your own client that can integrate with all MCP servers."
+        },
+        {
+          "name": "Build an MCP server",
+          "url": "https://modelcontextprotocol.io/docs/develop/build-server.md",
+          "notes": "Get started building your own server to use in Claude for Desktop and other clients."
+        },
+        {
+          "name": "Connect to local MCP servers",
+          "url": "https://modelcontextprotocol.io/docs/develop/connect-local-servers.md",
+          "notes": "Learn how to extend Claude Desktop with local MCP servers to enable file system access and other powerful integrations"
+        },
+        {
+          "name": "Connect to remote MCP Servers",
+          "url": "https://modelcontextprotocol.io/docs/develop/connect-remote-servers.md",
+          "notes": "Learn how to connect Claude to remote MCP servers and extend its capabilities with internet-hosted tools and data sources"
+        },
+        {
+          "name": "What is the Model Context Protocol (MCP)?",
+          "url": "https://modelcontextprotocol.io/docs/getting-started/intro.md"
+        },
+        {
+          "name": "Architecture overview",
+          "url": "https://modelcontextprotocol.io/docs/learn/architecture.md"
+        },
+        {
+          "name": "Understanding MCP clients",
+          "url": "https://modelcontextprotocol.io/docs/learn/client-concepts.md"
+        },
+        {
+          "name": "Understanding MCP servers",
+          "url": "https://modelcontextprotocol.io/docs/learn/server-concepts.md"
+        },
+        {
+          "name": "SDKs",
+          "url": "https://modelcontextprotocol.io/docs/sdk.md",
+          "notes": "Official SDKs for building with Model Context Protocol"
+        },
+        {
+          "name": "MCP Inspector",
+          "url": "https://modelcontextprotocol.io/docs/tools/inspector.md",
+          "notes": "In-depth guide to using the MCP Inspector for testing and debugging Model Context Protocol servers"
+        },
+        {
+          "name": "Understanding Authorization in MCP",
+          "url": "https://modelcontextprotocol.io/docs/tutorials/security/authorization.md",
+          "notes": "Learn how to implement secure authorization for MCP servers using OAuth 2.1 to protect sensitive resources and operations"
+        },
+        {
+          "name": "Example Servers",
+          "url": "https://modelcontextprotocol.io/examples.md",
+          "notes": "A list of example servers and implementations"
+        },
+        {
+          "name": "Architecture",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/architecture/index.md"
+        },
+        {
+          "name": "Authorization",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/basic/authorization.md"
+        },
+        {
+          "name": "Overview",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/basic/index.md"
+        },
+        {
+          "name": "Lifecycle",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/basic/lifecycle.md"
+        },
+        {
+          "name": "Security Best Practices",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/basic/security_best_practices.md"
+        },
+        {
+          "name": "Transports",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/basic/transports.md"
+        },
+        {
+          "name": "Cancellation",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/basic/utilities/cancellation.md"
+        },
+        {
+          "name": "Ping",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/basic/utilities/ping.md"
+        },
+        {
+          "name": "Progress",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/basic/utilities/progress.md"
+        },
+        {
+          "name": "Tasks",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/basic/utilities/tasks.md"
+        },
+        {
+          "name": "Key Changes",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/changelog.md"
+        },
+        {
+          "name": "Elicitation",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/client/elicitation.md"
+        },
+        {
+          "name": "Roots",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/client/roots.md"
+        },
+        {
+          "name": "Sampling",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/client/sampling.md"
+        },
+        {
+          "name": "Specification",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/index.md"
+        },
+        {
+          "name": "Schema Reference",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/schema.md"
+        },
+        {
+          "name": "Overview",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/server/index.md"
+        },
+        {
+          "name": "Prompts",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/server/prompts.md"
+        },
+        {
+          "name": "Resources",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/server/resources.md"
+        },
+        {
+          "name": "Tools",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/server/tools.md"
+        },
+        {
+          "name": "Completion",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/server/utilities/completion.md"
+        },
+        {
+          "name": "Logging",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/server/utilities/logging.md"
+        },
+        {
+          "name": "Pagination",
+          "url": "https://modelcontextprotocol.io/specification/2025-11-25/server/utilities/pagination.md"
+        },
+        {
+          "name": "Versioning",
+          "url": "https://modelcontextprotocol.io/specification/versioning.md"
+        }
+      ]
+    }
+  ]
+}
