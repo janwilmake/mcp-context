@@ -18,3 +18,7 @@ For the entire modelcontextprotocol.io website as markdown, see [website](websit
 - [/.well-known/oauth-authorization-server](https://www.rfc-editor.org/rfc/rfc8414.txt)
 - [/.well-known/oauth-protected-resource](https://www.rfc-editor.org/rfc/rfc9728.txt)
 - [/register](https://www.rfc-editor.org/rfc/rfc7591.txt)
+
+## Tasks
+
+- [Adding Tasks to your server](adding-tasks.md)
